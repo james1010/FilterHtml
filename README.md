@@ -44,3 +44,11 @@ demo例子:过滤H5中的img标签,并获取点击的img地址:
     	}
     }
 `
+
+###3.效果
+
+![](./1.png)
+
+
+##你点击的图片地址是:http://cms-bucket.nosdn.127.net/4099de6c779e4dadad7ca85a00182b7920161128173334.png?imageView&thumbnail=690x10000&quality=50
+
